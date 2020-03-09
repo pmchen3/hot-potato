@@ -1,0 +1,22 @@
+References for this project
+
+http://man7.org/linux/man-pages/man2/gethostname.2.html
+http://linux.die.net/man/3/gethostbyname
+http://linux.die.net/man/3/gethostbyaddr
+
+http://linux.die.net/man/3/socket
+http://linux.die.net/man/3/htons
+http://linux.die.net/man/3/bind
+http://linux.die.net/man/3/accept
+http://linux.die.net/man/3/recv
+http://linux.die.net/man/3/send
+http://linux.die.net/man/3/connect
+http://linux.die.net/man/3/listen
+http://linux.die.net/man/2/select
+http://www.lowtek.com/sockets/select.html
+
+http://www.binarytides.com/multiple-socket-connections-fdset-select-linux/
+http://man7.org/linux/man-pages/man3/inet_ntop.3.html
+
+Student
+Worked with Siddhartha Kollipara to better understand the task, strategies, and troubleshooting.
